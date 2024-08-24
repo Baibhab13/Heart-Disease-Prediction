@@ -7,11 +7,11 @@ The heart disease detection project aims to build a tool that will help users de
 Learning outcomes: 
 
 Knowledge of machine learning basics: Understanding how the entire machine learning process works
--Data manipulation and analysis: Learn the use of Python libraries Pandas and NumPy for data manipulation and analysis, data cleaning, handling missing values, and dealing with outliers 
--Data visualization: Use of Python libraries like Matplotlib, Seaborn, and Plotly for data visualization 
--Data preprocessing: Understanding of data clearing and handling missing values, feature engineering techniques, data scaling and normalization, and dealing with categorical variables 
--Supervised learning model selection and evaluation: Use of appropriate supervised learning algorithms like logistic regression, decision trees, and random forests 
--Evaluating model performance: Knowledge of different model performance evaluation metrics
+  -Data manipulation and analysis: Learn the use of Python libraries Pandas and NumPy for data manipulation and analysis, data cleaning, handling missing values, and dealing with outliers 
+  -Data visualization: Use of Python libraries like Matplotlib, Seaborn, and Plotly for data visualization 
+  -Data preprocessing: Understanding of data clearing and handling missing values, feature engineering techniques, data scaling and normalization, and dealing with categorical variables 
+  -Supervised learning model selection and evaluation: Use of appropriate supervised learning algorithms like logistic regression, decision trees, and random forests 
+  -Evaluating model performance: Knowledge of different model performance evaluation metrics
 
 What it takes to execute this project:
 
